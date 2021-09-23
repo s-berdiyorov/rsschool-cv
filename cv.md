@@ -37,3 +37,32 @@ const operArray = (fct, arr, init) => arr.map(u => {
   return init; 
 });
 ```
+# Education
+* **Warsaw University of Technology (Bachelor's degree)**
+    * Electronics and Information Technology - Computer Science (spec. Computer Systems and Networks).
+* **Academic Lyceum at Westminster International University in Tashkent (High School)**
+    * Exact sciences and English language improvement since all classes are conducted in English.
+* **IT-School in Tashkent (Primary and Middle School)**
+    * Basic knowledge of programming and algorithm knowledge using Python language.
+
+
+# Experience
+
+* 2020 - 2021 Digital Company **"Digital Panda"**, *Middle PHP Developer*
+
+* 2020 - Coursera **Building Web Applications in PHP**, *by University of Michigan*
+
+* 2019 - GeekBrains **Intensive Course of Python**, *by @mail.ru group*
+
+* 2019 - 2020 Foundation **"Country Hope"**, *Junior PHP Developer*
+
+* 2018 - 2019 Web Studio **"Sof Innovation, Sof Group"**, *Internship, PHP Developer*
+
+# Languages
+- Uzbek **(Native)**
+- English **(C1, IELTS 7.0)**
+- Russian **(C1)**
+- Polish **(A2)**
+<br>
+<br>
+
